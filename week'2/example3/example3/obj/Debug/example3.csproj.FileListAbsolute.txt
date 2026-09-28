@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\bin\Debug\example3.exe.config
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\bin\Debug\example3.exe
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\bin\Debug\example3.pdb
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.Form1.resources
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.exe
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.pdb
+C:\Users\PC\OneDrive\Desktop\C#\Chapter1_Basics\Chapter1_Basics\example3\example3\obj\Debug\example3.exe.config
